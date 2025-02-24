@@ -16,29 +16,29 @@ Android Development: Kotlin, Jetpack Compose
 
 💡 Projects
 
-Wishlist App – Allows users to add wishes with descriptions
+📌 Wishlist App – Allows users to add wishes with descriptions
 
-Blogging App – A simple platform for sharing blogs
+📌 Blogging App – A simple platform for sharing blogs
 
-7-Minute Workout App – Basic UI with a workout timer
+📌 7-Minute Workout App – Basic UI with a workout timer
 
-Quiz App – A fun and interactive quiz application
+📌 Quiz App – A fun and interactive quiz application
 
-Amazon Clone – A web-based e-commerce project with limited features
+📌 Amazon Clone – A web-based e-commerce project with limited features
 
-Portfolio Website – A personal website showcasing my work and skills
+📌 Portfolio Website – A personal website showcasing my work and skills
 
 🌟 More About Me
 
-🔭 I’m currently working on enhancing my Portfolio Website and a new Android project
+🔭 I’m currently working on: Enhancing my Portfolio Website and a new Android project
 
-🌱 I’m currently learning advanced Kotlin features and backend development with Node.js
+🌱 I’m currently learning: Advanced Kotlin features and backend development with Node.js
 
-👯 I’m looking to collaborate on open-source Android and web development projects
+👯 I’m looking to collaborate on: Open-source Android and web development projects
 
-🤔 I’m looking for help with scaling and optimizing backend systems
+🤔 I’m looking for help with: Scaling and optimizing backend systems
 
-💬 Ask me about Android development, Jetpack Compose, and Web Development
+💬 Ask me about: Android development, Jetpack Compose, and Web Development
 
 📫 How to reach me: pundeshriyog2004@gmail.com
 
@@ -48,11 +48,10 @@ Portfolio Website – A personal website showcasing my work and skills
 
 📫 Connect With Me
 
-Email: pundeshriyog2004@gmail.com
+📧 Email: pundeshriyog2004@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: Your LinkedIn Profile
 
-GitHub: Shriyog's GitHub
+💻 GitHub: Shriyog's GitHub
 
-Let's collaborate and build something amazing! 🚀
-
+✨ Let's collaborate and build something amazing! 🚀
