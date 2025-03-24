@@ -1,10 +1,10 @@
 Hi there, I'm Shriyog Yogesh Punde! 👋
 
-🚀 About Me
+##🚀 About Me
 
 I'm a passionate Android and Web Developer currently pursuing a B.E. in Computer Engineering (Third Year - TE) at AISSMS College of Engineering (Graduating in 2026). I love building innovative and user-friendly applications that solve real-world problems.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Programming Languages: C++, Python, Kotlin, JavaScript
 
@@ -14,7 +14,7 @@ Backend Development: MongoDB
 
 Android Development: Kotlin, Jetpack Compose
 
-💡 Projects
+##💡 Projects
 
 📌 Wishlist App – Allows users to add wishes with descriptions
 
@@ -28,7 +28,7 @@ Android Development: Kotlin, Jetpack Compose
 
 📌 Portfolio Website – A personal website showcasing my work and skills
 
-🌟 More About Me
+##🌟 More About Me
 
 🔭 I’m currently working on: Enhancing my Portfolio Website and a new Android project
 
