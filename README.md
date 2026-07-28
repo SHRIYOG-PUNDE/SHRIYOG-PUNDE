@@ -99,42 +99,6 @@ const shriyog = {
 
 ---
 
-# ☕ A Little More About Me
-
-I enjoy building software that solves real problems.
-
-Sometimes that means writing **5,000 lines of code.**
-
-Sometimes it means deleting **7,000 lines** because Future Me wondered what Present Me was thinking.
-
-Outside of coding you'll usually find me...
-
-- 🚀 building side projects
-- ☁️ learning cloud technologies
-- 🤖 experimenting with AI
-- 📚 reading about scalable systems
-- ☕ convincing myself *one more coffee* is a good idea
-
----
-
-# 🎯 Current Developer Status
-
-```txt
-Coffee Level        ██████████ 100%
-
-Motivation          █████████░ 94%
-
-Git Commits         ██████████ ∞
-
-Sleep               ██░░░░░░░░ 18%
-
-Production Deploys  ████████░░ "Probably Fine"
-
-Browser Tabs        ██████████ 47 Open
-```
-
----
-
 # 🚀 Things I'm Proud Of
 
 ✨ Built applications that solve real-world problems.
