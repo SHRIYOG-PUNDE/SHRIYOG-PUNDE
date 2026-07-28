@@ -636,15 +636,25 @@ I'm just trying to become a little better than yesterday.
 
 
 
-# 🐍 Contribution Snake
+# 🐍 Daily Reminder to Keep Building
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SHRIYOG-PUNDE/SHRIYOG-PUNDE/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SHRIYOG-PUNDE/SHRIYOG-PUNDE/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
-> **Coming Soon:** The snake earns its food one commit at a time. 🐍
+<div align="center">
+
+### The snake isn't chasing food...
+
+### It's chasing consistency.
+
+*Every commit tells a story—of an idea explored, a bug conquered, a lesson learned, or a feature finally coming to life.*
+
+**One commit at a time. One step closer.** 🚀
+
+</div>
 
 ---
 
@@ -847,13 +857,13 @@ I'm always happy to connect.
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pundeshriyog2004@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/shriyog-punde-26239b25b">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 
