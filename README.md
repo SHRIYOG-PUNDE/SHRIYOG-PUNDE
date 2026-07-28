@@ -291,7 +291,7 @@ Browser Tabs        ██████████ 47 Open
 
 <p align="center">
 
-<img src="assets/cloud-preview.png" width="100%"/>
+<img src="assets/CloudCostBanner.png" width="100%"/>
 
 </p>
 
@@ -367,7 +367,7 @@ Normalizing billing data from three different cloud providers into one consisten
 
 <p align="center">
 
-<img src="assets/quickchat-preview.png" width="100%"/>
+<img src="assets/QuickChatBanner.png" width="100%"/>
 
 </p>
 
@@ -437,7 +437,7 @@ Keeping multiple users synchronized in real time while maintaining a smooth user
 
 <p align="center">
 
-<img src="assets/velora-preview.png" width="100%"/>
+<img src="assets/VeloraBanner.png" width="100%"/>
 
 </p>
 
@@ -512,7 +512,7 @@ Building a clean architecture that could handle authentication, analytics, recur
 
 <p align="center">
 
-<img src="assets/portfolio-preview.png" width="100%"/>
+<img src="assets/PortfolioBanner.png" width="100%"/>
 
 </p>
 
