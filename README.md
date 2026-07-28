@@ -6,13 +6,13 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/shriyog-punde-26239b25b">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pundeshriyog2004@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -351,11 +351,11 @@ Normalizing billing data from three different cloud providers into one consisten
 
 <div align="center">
 
-<a href="YOUR_LIVE_LINK">
+<a href="https://cloudcostop.onrender.com/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-111827?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_REPOSITORY">
+<a href="https://github.com/SHRIYOG-PUNDE/CloudCost">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-2563EB?style=for-the-badge"/>
 </a>
 
@@ -492,13 +492,13 @@ Building a clean architecture that could handle authentication, analytics, recur
 
 <div align="center">
 
-<a href="YOUR_VELORA_DEMO">
+<a href="https://velora-client-three.vercel.app/">
 
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-111827?style=for-the-badge"/>
 
 </a>
 
-<a href="YOUR_VELORA_REPO">
+<a href="https://github.com/SHRIYOG-PUNDE/velora-server">
 
 <img src="https://img.shields.io/badge/📂%20Source%20Code-2563EB?style=for-the-badge"/>
 
@@ -573,7 +573,7 @@ Finding the sweet spot between impressive animations and a website that still lo
 
 </a>
 
-<a href="https://github.com/SHRIYOG-PUNDE">
+<a href="https://github.com/SHRIYOG-PUNDE/PortFolioUpdated">
 
 <img src="https://img.shields.io/badge/📂%20GitHub-2563EB?style=for-the-badge"/>
 
